@@ -25,7 +25,7 @@ Here's a list of datasets I've contributed to this repository:
 
 | Dataset Name      | Description                                 | Link to Kaggle                   |
 |-------------------|---------------------------------------------|----------------------------------|
-| Bone Tumor        | A dataset containing information about...   | [Kaggle Link]([URL_TO_BONE_TUMOR_DATASET](https://www.kaggle.com/datasets/antimoni/bone-tumor))  |
+| Bone Tumor        | A dataset containing information about...   | [Kaggle Link]([https://www.kaggle.com/datasets/antimoni/bone-tumor]  |
 |                   |                                             |                                  |
 |                   |                                             |                                  |
 
