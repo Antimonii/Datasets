@@ -25,8 +25,8 @@ Here's a list of datasets I've contributed to this repository:
 
 | Dataset Name      | Description                                 | Link to Kaggle                   |
 |-------------------|---------------------------------------------|----------------------------------|
-| Bone Tumor        | A dataset containing information about...   |[Kaggle Link](https://www.kaggle.com/datasets/antimoni/bone-tumor)  |
-|                   |                                             |                                  |
+| Bone Tumor        | A dataset about bone tumors                 |[Kaggle Link](https://www.kaggle.com/datasets/antimoni/bone-tumor)  |
+| Football Satdiums | A dataset anout football stadiums           |[Kaggle Link](https://www.kaggle.com/datasets/antimoni/football-stadiums)                                  |
 |                   |                                             |                                  |
 
 Feel free to explore and utilize these datasets for your data analysis projects.
